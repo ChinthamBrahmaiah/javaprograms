@@ -1,2 +1,0 @@
-# javaprograms
-learningjava
